@@ -1,0 +1,49 @@
+h1,h2,h3,p{
+    font-family: cursive;
+}
+img,iframe{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+}
+h1,h2,h3,nav{
+    text-transform: uppercase;
+    text-align: center;
+    font-style: italic;
+}
+h1 {
+    color:blue;
+    font-size: 40px;
+}
+h2{
+    color:green;
+    font-size: 35px;
+}
+h3{
+    color: rgb(121, 11, 11);
+    font-size: 30px;
+}
+p{
+    color:rgba(0, 0, 0, 0.89);
+    font-size: 26px;
+    
+    line-height:1.5;
+}
+nav{
+    color:chocolate;
+    font-size:27px;
+}
+b{
+    font-style: italic;
+    font-family: sans-serif;
+}
+footer p{
+    font-size: 20;
+    color:dimgrey;
+}
+#aboutauthor{
+    font-family:sans-serif;
+    color:rgb(238, 98, 17);
+    font-style: italic;
+    
+}
